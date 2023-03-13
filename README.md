@@ -1,4 +1,4 @@
-# How to Deploy to Kinsta
+# How to Deploy Elder.js Site to Kinsta
 Endeavor to check this [pull request](https://github.com/olawanlejoel/elderjs-quickstart/pull/1) to understand the various changes made such as the serve command used.
 
 # Elder.js Template Project
