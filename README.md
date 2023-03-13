@@ -1,3 +1,6 @@
+# How to Deploy to Kinsta
+Endeavor to check this [pull request](https://github.com/olawanlejoel/elderjs-quickstart/pull/1) to understand the various changes made such as the serve command used.
+
 # Elder.js Template Project
 
 <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Node&query=engines.node&url=https%3A%2F%2Fraw.githubusercontent.com%2Felderjs%2Ftemplate%2Fmaster%2Fpackage.json" alt="node version" />
